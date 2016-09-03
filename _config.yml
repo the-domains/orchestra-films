@@ -1,14 +1,13 @@
-layout_spectrum: 0.36522395978681743
 typography_spectrum: 0.1360207861289382
 color:
   brandStrength: 0.48420782829634845
   lightness: 0.29239620780572295
   saturation: 0.9053737914655358
   rhythmicContrast: 0.8112166717182845
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+layout_spectrum: 0.36522395978681743
 name: Orchestra Films
+navigation:
+  - name: About us
+    id: 62ada48e-c1c5-4b76-a870-5614c2b219a9
+    type: content
+description: A Fine Team for Complicated Tasks
